@@ -1,0 +1,11 @@
+[package]
+name = "rougedetect"
+version = "0.1.0"
+authors = ["Paul Spooren <mail@aparcar.org>"]
+
+[dependencies]
+dhcp4r = "*"
+rand = "*"
+enum-primitive-derive = "^0.1"
+num-traits = "^0.1"
+time = "0.1"
